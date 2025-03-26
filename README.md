@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo la creación y análisis de **41 consultas en 
 Para ejecutar las consultas, se siguio estos pasos:
 
 1. **Instalacion del entorno de desarrollo** correspondiente.
-2. **Realizar los:**
+2. **Descarga:** Descarga de las diferentes extensiones y librerias que podrias sernos de utilidad en este proyecto
 
 ### Consultas
 Se realizaron consultas utilizando diferentes metodos como map(), filter() o reduce()
